@@ -1,0 +1,9 @@
+# Django and libs
+Django==4.1.7
+djangorestframework==3.14.0
+django-environ==0.10.0
+Pillow==9.4.0
+
+
+# DataBase
+psycopg2-binary==2.9.5
